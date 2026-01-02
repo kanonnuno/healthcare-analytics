@@ -7,7 +7,7 @@ This repository documents my journey learning healthcare data analytics.
 
 # Structure
 
-- 'sql' - SQL quieries and database practice
+- 'sql' - SQL queries and database practice
 - 'excel' - Excel analysis and dashboards
 - 'datasets' - Public or synthetic healthcare datasets
 
